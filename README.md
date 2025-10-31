@@ -1,5 +1,3 @@
-# INN-Hotels-Booking-Cancellation-Prediction
-
 # 🏨 INN Hotels Booking Cancellation Prediction
 
 ## 📘 Project Overview
